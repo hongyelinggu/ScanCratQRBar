@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LG验证工具</string>
+    <string name="creat_qr_zing">生成二维码和条形码</string>
+    <string name="create_qr_code">生成二维码</string>
+    <string name="create_zxing_code">生成条形码</string>
+    <string name="scan_2code">扫描二维码</string>
+    <string name="scan_bar_code">扫描条形码</string>
+    <string name="scan_code">扫描二维码或者条形码</string>
+</resources>
