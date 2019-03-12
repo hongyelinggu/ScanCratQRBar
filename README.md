@@ -21,7 +21,7 @@ Android 最简单的二维码和条形码扫描生成工具
 
 使用方法:快速进入
 ========
-
+![最新版本](https://img.shields.io/badge/%20Gradle-V%201.0.0-brightgreen.svg) 
 步奏1:
 ---
 AndroidStudio导入项目库:
